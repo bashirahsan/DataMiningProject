@@ -1,5 +1,5 @@
 # DataMiningProject
-This is a semester project of CS429-Data Mining at NUCES-ISB completed in Fall 2019
+This is a semester project of CS429-Data Mining at NUCES-ISB completed in Spring 2019
 
 # Description
 The assigned task was to recover images that had 50% of the values intentionally assigned null by our instructor. After recovering the images, we were to train a neural network for image classification.
